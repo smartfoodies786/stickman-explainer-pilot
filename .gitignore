@@ -1,0 +1,6 @@
+out/
+__pycache__/
+.venv/
+.env
+*.mp4
+!out/sample.mp4

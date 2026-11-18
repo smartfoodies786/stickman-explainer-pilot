@@ -1,0 +1,30 @@
+{
+  "question": "What did ancient humans actually do all day?",
+  "scenes": [
+    {
+      "narration": "What did ancient humans actually do all day? No phones, no jobs, no alarms. Just survival.",
+      "action": "wake",
+      "caption": "No phones. No jobs. Just survival."
+    },
+    {
+      "narration": "First, they hunted. A small group, wooden spears, hours of walking just to find one meal.",
+      "action": "hunt",
+      "caption": "Hunting took hours — for one meal."
+    },
+    {
+      "narration": "Then they gathered. Berries, roots, and nuts — food the whole family could share.",
+      "action": "gather",
+      "caption": "Gathering fed the whole family."
+    },
+    {
+      "narration": "At night, fire was everything. Warmth, light, protection — and the first stories ever told.",
+      "action": "fire",
+      "caption": "Fire was warmth, light, and stories."
+    },
+    {
+      "narration": "Then they slept, early, under the stars. And the next morning, it all started again.",
+      "action": "sleep",
+      "caption": "Sleep early. Repeat tomorrow."
+    }
+  ]
+}
